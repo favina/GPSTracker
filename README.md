@@ -1,2 +1,2 @@
 # GPSTracker
-Tracks GPS on Android
+Simple application to track GPS on Android
